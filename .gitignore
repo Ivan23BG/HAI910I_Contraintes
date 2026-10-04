@@ -1,0 +1,14 @@
+# latex_handler build directories
+/build/
+/logs/
+/_pdf/dark_*
+/_pdf/light_*
+
+# TeX auxiliary files
+*.aux
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.log
+*.toc
+*.out
